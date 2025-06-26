@@ -1,7 +1,7 @@
 # 07-heroes-spa
 
 ## Demo
-[Ver demo en Netlify](https://react-heroes-spa-2025.netlify.app/login)
+[Ver demo en Netlify](https://react-heroes-spa-2025.netlify.app)
 
 Este proyecto es una SPA (Single Page Application) desarrollada con React, centrada en la visualización de héroes.
 
